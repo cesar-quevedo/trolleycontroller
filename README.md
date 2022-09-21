@@ -6,8 +6,7 @@
 # Build Unit(Trolley)
 ![](images/buildunit.PNG)
 # Overview
-This is an interactive software application that uses Python and TCL commands to control HP’s 3D metal jet printer's build units. This GUI was designed to avoid having to connect the build unit to a metal jet printer. The operators no longer need a metal jet printer to lower or raise the build unit with this GUI.
-'CustomTkinter' is what I used to make the GUI and I used "pyserial" to control the build units.
+This is an interactive software application that uses Python and TCL commands to control HP’s 3D metal jet printer's build units. The GUI was designed to eliminate the need to connect the build unit to a 3D metal jet printer. Now, it is no longer necessary for operators to use a metal jet printer to lower or raise the build unit. The GUI was created using CustomTkinter, and the build units are controlled with Python serial, also known as pyserial. This software application was added to a Raspberry Pi, which was connected to a touch-screen display. The Raspberry Pi was communicating with the build units via a RS232 serial cable.
 # Learn more about CustomTkinter
 "CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. They are created and used like normal Tkinter widgets and can also be used in combination with normal Tkinter elements. The widgets and the window colors either adapt to the system appearance or the manually set mode ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all desktop platforms (Windows, macOS, Linux)" - TomSchimansky
 - https://github.com/TomSchimansky/CustomTkinter
