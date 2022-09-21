@@ -1,8 +1,10 @@
 # Custom trolleycontroller GUI
 ![](images/gui1.PNG)
 ![](images/gui2.PNG)
-# 3D Metal Jet Printer
-# Build Unit
+# 3D Metal Jet Printer(Twelve printer)
+![](images/.PNG)
+# Build Unit(Trolley)
+![](images/.PNG)
 # Overview
 This is an interactive software application that uses Python and TCL commands to control HP’s 3D metal jet printer's build units. This GUI was designed to avoid having to connect the build unit to a metal jet printer. The operators no longer need a metal jet printer to lower or raise the build unit with this GUI.
 'CustomTkinter' is what I used to make the GUi and I used "pyserial" to control the build units.
