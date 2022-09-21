@@ -1,4 +1,4 @@
-# Custom TrolleyController GUI
+# Custom Trolley Controller GUI
 ![](images/gui1.PNG)
 ![](images/gui2.PNG)
 # 3D Metal Jet Printer(Twelve printer)
